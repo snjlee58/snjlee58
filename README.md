@@ -2,7 +2,7 @@
 
 👀 I’m interested in software development, machine learning, and UI design.
 
-🌱 I’m currently learning to develop an application using XCode, as well as data visualization through CNN.
+🌱 I’m currently learning to develop an application using XCode, as well as computer vision through CNN.
 
 📫 How to reach me:
 - Email: snjlee58@gmail.com
