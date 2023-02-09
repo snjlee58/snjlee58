@@ -2,8 +2,6 @@
 
 👀 I’m interested in iOS development, software development, and UI design.
 
-🌱 I’m currently learning to develop an application using XCode, as well as computer vision through CNN.
-
 📫 How to reach me:
 - Email: snjlee58@gmail.com
 
