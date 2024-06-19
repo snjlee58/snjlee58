@@ -1,4 +1,4 @@
-👋 Hi, I’m Sunny, an undergraduate (20학번) at Seoul National University studying Computer Science and Biological Sciences. Courses I have taken include Logic Design, Computer Programming (Java, C++, Python), and Data Structures. You can find the work that I submitted as part of my coursework in my repository.  
+👋 Hi, I’m Sunny, an undergraduate (20학번) at Seoul National University studying Computer Science and Biological Sciences. Courses I have taken include Data Structures, Database, Logic Design, and Computer Programming (Java, C++, Python). You can find the work that I submitted as part of my coursework in my repository.  
 
 👀 I’m interested in iOS development, software development, and UI design.
 
