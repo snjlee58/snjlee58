@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,1,10,14,16,18,20,27&text=SUNNY%20LEE&reversal=false&textBg=false&fontSize=44&fontAlign=51&fontAlignY=41&animation=twinkling&desc=another%20developer%20with%20a%20coffee%20problem&descAlign=50&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14&text=SUNNY%20LEE&reversal=false&textBg=false&fontSize=44&fontAlign=51&fontAlignY=41&animation=twinkling&desc=another%20developer%20with%20a%20coffee%20problem&descAlign=50&descAlignY=53)
 
 <h3 align="center">Hi There!</h3>
 <p align="center">👋 Hi, I’m Sunny, an undergraduate (20학번) at Seoul National University studying Computer Science and Biological Sciences. Courses I have taken include Data Structures, Database, Logic Design, and Computer Programming (Java, C++, Python). You can find the work that I submitted as part of my coursework in my repository.  
@@ -36,6 +36,8 @@
   <a href="mailto:snjlee58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=14&section=footer&reversal=true&textBg=false&fontSize=16&fontAlignY=80&animation=fadeIn&desc=@snjlee58&fontAlign=92&descSize=15&descAlign=92&descAlignY=82)
 <!---
 snjlee58/snjlee58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
