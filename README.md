@@ -24,12 +24,12 @@
 </div>
 
 <div align="center">
-  <h3>Sunny's Github Stats</h3>
+<h3>Sunny's Github Stats</h3>
 <a href="https://github.com/snjlee58/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snjlee58&theme=swift&custom_title=Sunny%27s%20GitHub%20Stats&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars"/></a>
+
+<h3>My Current Project</h3>
+<a href="https://github.com/steineggerlab/metabuli-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=metabuli-app&theme=swift"/></a>
 </div>
-<!--
-<a href="https://github.com/snjlee58/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjlee58&layout=donut&theme=swift"/></a>
---->
 
 <h3 align="center">Get In Touch!</h3>
 <div align="center">
