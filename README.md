@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14&text=SUNNY%20LEE&reversal=false&textBg=false&fontSize=44&fontAlign=51&fontAlignY=41&animation=twinkling&desc=another%20developer%20with%20a%20coffee%20problem&descAlign=50&descAlignY=53)
 
+<!--
 <h3 align="center">Hi There!</h3>
 <p align="center">👋 Hi, I’m Sunny, an undergraduate (20학번) at Seoul National University studying Computer Science and Biological Sciences. Courses I have taken include Data Structures, Database, Logic Design, and Computer Programming (Java, C++, Python). You can find the work that I submitted as part of my coursework in my repository.  
 </p>
+--->
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
