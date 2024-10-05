@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14&text=SUNNY%20LEE&reversal=false&textBg=false&fontSize=44&fontAlign=51&fontAlignY=41&animation=twinkling&desc=another%20developer%20with%20a%20coffee%20problem&descAlign=50&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=sunny%20lee&desc=another%20developer%20with%20a%20coffee%20problem&fontAlign=36&fontAlignY=39&descAlignY=51&descAlign=61)
 
 <!--
 <h3 align="center">Hi There!</h3>
@@ -28,7 +28,7 @@
 <a href="https://github.com/snjlee58/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snjlee58&theme=swift&custom_title=Sunny%27s%20GitHub%20Stats&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars"/></a>
 
 <h3>My Current Project</h3>
-<a href="https://github.com/steineggerlab/metabuli-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=metabuli-app&theme=swift"/></a>
+<a href="https://github.com/steineggerlab/metabuli-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=metabuli-app&theme=swift&show_owner=true"/></a>
 </div>
 
 <h3 align="center">Get In Touch!</h3>
@@ -39,7 +39,7 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=14&section=footer&reversal=true&textBg=false&fontSize=16&fontAlignY=80&animation=fadeIn&desc=@snjlee58&fontAlign=92&descSize=15&descAlign=92&descAlignY=82)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&section=footer&reversal=true&textBg=false&fontSize=16&fontAlignY=80&animation=fadeIn&desc=@snjlee58&fontAlign=92&descSize=15&descAlign=92&descAlignY=82)
 <!---
 snjlee58/snjlee58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
